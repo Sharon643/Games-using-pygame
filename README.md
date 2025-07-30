@@ -1,3 +1,3 @@
 # Games-using-pygame
 
-Some randow easy games built using pygame
+Some random easy games built using pygame
